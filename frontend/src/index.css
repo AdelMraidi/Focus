@@ -1,0 +1,19 @@
+.bgimage {
+  background-image: url("./../public/freelancers.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.addform {
+  height: 80vh;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
